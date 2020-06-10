@@ -3,7 +3,7 @@
 package com.quiniela.wc.service;
 
 //Imports
-import com.quiniela.wc.domain.Match;
+import com.quiniela.wc.domain.model.Match;
 import java.util.List;
 
 /**

@@ -1,6 +1,6 @@
 
 //Namespace
-package com.quiniela.wc.domain;
+package com.quiniela.wc.domain.model;
 
 /**
  * Class that represents a footabll stadium

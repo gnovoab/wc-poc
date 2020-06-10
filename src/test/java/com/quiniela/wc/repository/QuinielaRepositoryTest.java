@@ -2,7 +2,7 @@
 //Namespace
 package com.quiniela.wc.repository;
 
-import com.quiniela.wc.domain.Match;
+import com.quiniela.wc.domain.model.Match;
 import org.junit.Assert;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

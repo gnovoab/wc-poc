@@ -4,8 +4,8 @@ package com.quiniela.wc.repository.impl;
 
 //Imports
 
-import com.quiniela.wc.domain.Match;
-import com.quiniela.wc.domain.Team;
+import com.quiniela.wc.domain.model.Match;
+import com.quiniela.wc.domain.model.Team;
 import com.quiniela.wc.exception.DatabaseException;
 import com.quiniela.wc.repository.QuinielaRepository;
 import org.slf4j.Logger;

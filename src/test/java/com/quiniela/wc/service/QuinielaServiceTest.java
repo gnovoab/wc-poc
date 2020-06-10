@@ -3,7 +3,7 @@
 package com.quiniela.wc.service;
 
 //Imports
-import com.quiniela.wc.domain.Match;
+import com.quiniela.wc.domain.model.Match;
 import com.quiniela.wc.repository.QuinielaRepository;
 import com.quiniela.wc.service.impl.QuinielaServiceImpl;
 import org.junit.Assert;
